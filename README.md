@@ -1,16 +1,3 @@
-# Why have this policy?
-
-When groups of people come together, there can be disagreement or conflict. Unfortunately, sometimes that crosses the line into insensitive and inappropriate words or actions, ultimately creating a toxic environment that’s not as inclusive and healthy as it should be. It’s our job, as shepherds and developers of a community, to set a good example, and to take clear action against bad behavior.
-
-If you’re thinking, “that’s NEVER an issue in MY chapter,” then great. But it only takes one incident to turn a meeting from comfortable to awkward, so it’s good to be prepared to manage such a situation if it should ever arise. That’s why we’re providing this “anti-harassment policy” document for you to use at your discretion in your chapter. Also included are instructions for event staff on how to enforce this policy.
-
-### How to use it?
-Please consider this policy text as a template, and you may want to start a conversation about it with active members to create text that works for your community. We suggest linking the document on your chapter’s home page, as well as including it in individual event/meetup registration sites.
-
-We have also provided a shorter, “Don’t be a jerk” policy that is a more casual version of the longer policy. This blurb may be used in lieu of the longer policy, or possibly linked to it. We are providing this blurb as an additional language option you can use to communicate this policy to your group and event attendees.
-
-Ultimately, it is up to you how you’d like to communicate and use the anti-harassment policy.
-
 # Anti-Harassment Policy
 
 Why do we have an official anti-harassment policy for GDG São Paulo events?
