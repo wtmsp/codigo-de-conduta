@@ -41,7 +41,7 @@ Contato: organizers@gdgsp.org
 
 Embora nós esperamos que nós nunca temos que invocar esta política, acreditamos que ter este documento ajuda a todos pensar um pouco mais sobre como suas ações e palavras afetam toda a comunidade, bem como indivíduos na comunidade.
 
-### Licensa e Atribuição
+### Licença e Atribuição
 
 Esta política está licenciado sob o Creative Commons Zero license. Esta política baseia-se em várias outras políticas, incluindo A política Anti-Assédio da Ohio LinuxFest, escrita por Esther Filderman e Beth Lynn Eicher, e o Projeto Anti-Assédio Con. Mary Gardiner, Valerie Aurora, Sarah Smith, e Donna Benjamin generalizaram as políticas e acrescentaram material de apoio. Muitos membros da LinuxChix, Geek Feminism e outros grupos contribuiram com esse trabalho.
 
