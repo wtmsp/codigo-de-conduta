@@ -1,49 +1,54 @@
-# Anti-Harassment Policy
+# Política Anti-Assedio
 
-Why do we have an official anti-harassment policy for GDG São Paulo events?
+Por quê temos uma política anti-assedio oficial para os eventos e atividades do GDG São Paulo?
 
-- It sets expectations for behavior at the event. Simply having an anti-harassment policy can prevent harassment.
-- It encourages people to attend who have had bad experiences at other events.
-- It gives event staff/volunteers instructions on how to handle harassment quickly, with the minimum amount of disruption for the event.
+- Estabelece expectativas para o comportamento no evento. Basta ter uma política anti-assédio para poder combater o assédio.
+- Encoraja pessoas que tiveram uma má experiencia anterior a não deixar de participar das atividades.
+- Fornece aos voluntários instruções sobre como lidar com o assédio rapidamente, com o mínimo de perturbação para as atividades.
 
-GDG São Paulo is dedicated to providing a harassment-free event experience for everyone, regardless of:
+O GDG São Paulo é dedicado a fornecer uma experiência de evento livre de assédio para todos, independentemente de:
 
-- gender
-- sexual orientation
-- disability
-- gender identity
-- age
-- race
-- religion
-- nationality
+- gênero
+- orientação sexual
+- inabilidade
+- identidade de gênero
+- idade
+- raça
+- religião
+- nacionalidade
 
-The above is not an exhaustive list -- we do not tolerate harassment of event participants in any form.
+O exposto acima não é uma lista completa - nós não toleramos assédio dos participantes do evento, sob qualquer forma.
 
-Sexual language and imagery is not appropriate for any event venue, including talks. Event participants violating these rules may be expelled from the event, and even banned from future events at the discretion of the event organizers/management.
+Linguagem sexual e imagens não é apropriado para qualquer local do evento, incluindo palestras. Os participantes do evento que violem estas regras pode ser expulso do evento, e até mesmo proibidos de eventos futuros, a critério dos organizadores.
 
-Harassment includes (but is not limited to):
-- offensive verbal comments related to gender, sexual orientation, disability, gender identity, age, race, religion
-- the use or display of sexual images in public spaces
-- deliberate intimidation
-- stalking
-- harassing photography or recording
-- sustained disruption of talks or other events
-- inappropriate physical contact
-- unwelcome sexual attention
+Assédio inclui (mas não está limitado a):
+- Comentários verbais ofensivos relacionadas ao gênero, orientação sexual, deficiência, identidade de gênero, idade, raça, religião
+- O uso ou exibição de imagens sexuais em espaços públicos
+- Intimidação deliberada
+- Perseguição
+- Fotografia assédio ou gravação
+- Perturbação da fala ou outros acontecimentos
+- Contato físico inapropriado
+- Atenção sexual indesejada
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+Se um participante pedir para parar qualquer comportamento de assédio, esse deve ser atendido imediatamente.
 
-Exhibiting partners and guest speakers are also subject to the anti-harassment policy. In particular, exhibitors and speakers should not use sexualized images, activities, or other material, or otherwise create a sexualized environment in their slide decks, exhibit material, exhibit staffing, promotional items or demo material.
+Expositoras parceiros e palestrantes convidados também estão sujeitas à política anti-assédio. Em particular, os expositores e palestrantes não deve usar imagens sexualizadas, atividades ou outro material, ou de outra forma criar um ambiente sexualizado em seus conjuntos de slides, material de exposição, exibição de pessoal, itens promocionais ou de materiais de demonstração.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an organizer or event volunteer immediately. Organizers and event volunteers may be identified by t-shirts or special badges/lanyards. Organizers will investigate the issue and take appropriate action. This may include helping participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+Se você está sendo assediado, perceber que alguém está sendo assediado, ou tem quaisquer outras preocupações, entre em contato com organizador ou voluntário imediatamente. Os organizadores vão investigar o problema e tomar as medidas adequadas. Isso pode incluir ajudar os participantes a entrar em contato com a segurança local ou a aplicação da lei local, fornecer escoltas, ou ajudar aqueles que experimentam o assédio para se sentir seguro para a duração do evento.
 
-Contact: organizers@gdgsp.org
+Contato: organizers@gdgsp.org
 
-Though we hope that we never have to invoke this policy, we believe that having this document helps everyone think a little more about how their actions and words affect the whole community, as well as individuals in the community.
+Embora nós esperamos que nós nunca temos que invocar esta política, acreditamos que ter este documento ajuda a todos pensar um pouco mais sobre como suas ações e palavras afetam toda a comunidade, bem como indivíduos na comunidade.
 
-### License and attribution
+### Licensa e Atribuição
 
-This policy is licensed under the Creative Commons Zero license. This policy is based on several other policies, including the Ohio LinuxFest anti-harassment policy, written by Esther Filderman and Beth Lynn Eicher, and the Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith, and Donna Benjamin generalized the policies and added supporting material. Many members of LinuxChix, Geek Feminism and other groups contributed to this work.
+Esta política está licenciado sob o Creative Commons Zero license. Esta política baseia-se em várias outras políticas, incluindo A política Anti-Assédio da Ohio LinuxFest, escrita por Esther Filderman e Beth Lynn Eicher, e o Projeto Anti-Assédio Con. Mary Gardiner, Valerie Aurora, Sarah Smith, e Donna Benjamin generalizaram as políticas e acrescentaram material de apoio. Muitos membros da LinuxChix, Geek Feminism e outros grupos contribuiram com esse trabalho.
+
+Tem alguma sugestão para inserirmos na política? Nos avise.
+GDG SÃO PAULO | WOMEN TECHMAKERS SÃO PAULO
+
+Jan, 2016
 
 
  
