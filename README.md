@@ -46,6 +46,7 @@ Embora nós esperamos que nós nunca temos que invocar esta política, acreditam
 Esta política está licenciado sob o Creative Commons Zero license. Esta política baseia-se em várias outras políticas, incluindo A política Anti-Assédio da Ohio LinuxFest, escrita por Esther Filderman e Beth Lynn Eicher, e o Projeto Anti-Assédio Con. Mary Gardiner, Valerie Aurora, Sarah Smith, e Donna Benjamin generalizaram as políticas e acrescentaram material de apoio. Muitos membros da LinuxChix, Geek Feminism e outros grupos contribuiram com esse trabalho.
 
 Tem alguma sugestão para inserirmos na política? Nos avise.
+
 GDG SÃO PAULO | WOMEN TECHMAKERS SÃO PAULO
 
 Jan, 2016
